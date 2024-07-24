@@ -7,6 +7,10 @@ date: 2019-01-20
 
 目前在上海交通大学2021级软件工程专业本科就读，如果有任何需要可以随时联系我。
 
+## 文章导航
+
+- [Vim](https://leinfinitr.github.io/skills-github-pages/2024/07/17/Vim.html)
+
 ## 课程项目列表
 
 | 链接 | 课程 | 学期 | 简介 |
@@ -14,7 +18,7 @@ date: 2019-01-20
 | [DataStructure](https://github.com/leinfinitr/DataStructure) | 《高级数据结构》 | 大二 | 使用C++开发了常用的数据结构和算法，包括AVL-Tree, BloomFilter, RedBlackTree, SkipList, SparseMatrix, TopologicalSort, K-select, treap。 |
 | [LSM-KV](https://github.com/leinfinitr/LSM-KV) | 《高级数据结构》 | 大二 | 开发了基于Log-structured Merge Tree的KV存储系统。 |
 | [MathematicalMethod](https://github.com/leinfinitr/MathematicalMethod) | 《计算机科学的数学方法》 | 大二 | 使用Python脚本解决了实际场景中的最小二乘法、QR分解、凸优化等问题。 |
-| [MachineLearning](https://github.com/leinfinitr/MachineLearning) | 《机器学习》 | 大三 | Lab1实现了逻辑回归、支持向量机、多层感知机用于分类任务；Lab2搭建并训练了GPT2模型用于简单的代码生成任务，并进行了调参对比实验；Lab3分别使用预训练CNN、普通CNN、ResNet和LSTM搭建并训练模型完成视频分类任务。 |
+| [MachineLearning](https://github.com/leinfinitr/MachineLearning) | 《机器学习》 | 大三上 | Lab1实现了逻辑回归、支持向量机、多层感知机用于分类任务；Lab2搭建并训练了GPT2模型用于简单的代码生成任务，并进行了调参对比实验；Lab3分别使用预训练CNN、普通CNN、ResNet和LSTM搭建并训练模型完成视频分类任务。 |
 | [CHFS](https://github.com/leinfinitr/CHFS) | 《计算机系统工程》 | 大三上 | 四个部分分别实现了：基于inode的文件系统、分布式文件系统、raft算法、MapReduce算法。 |
 | [eBookStore-frontend](https://github.com/leinfinitr/eBookStore-frontend) | 《互联网应用技术开发》 | 大三上 | 使用JavaScript和React框架的在线书店前端。 |
 | [eBookStore-backend](https://github.com/leinfinitr/eBookStore-backend) | 《互联网应用技术开发》 | 大三上 | 使用Java和Spring框架的在线书店后端，MySQL作为主要的数据库。在后续开发中加入了kafka, Transaction, Redis, MicroService, MongoDB, Neo4j, Nginx, GraphQL, Docker, Hadoop, Spark等特性或支持。 |
